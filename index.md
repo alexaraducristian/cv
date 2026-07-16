@@ -42,6 +42,9 @@ My core focus areas include: **CI/CD automation, DevOps toolchains, DevMLOps pip
 
 ## Technical Skills
 
+### AI/LLM Platform & GenAI Frameworks
+LiteLLM (enterprise AI/API Gateway) for unified access to LLMs across Google Vertex AI, AWS Bedrock, Azure AI Foundry. Feature catalog ("ready to use" for rapid implementation of new AI features). **LangChain** and **LangGraph** for building agentic AI workflows and multi-step reasoning chains. **LangFlow** integration for visual orchestration of AI pipelines. **RAG (Retrieval-Augmented Generation)** pipelines with vector stores for context-aware responses. **Model Context Protocol (MCP)** for standardized tool-use and agent-to-agent communication. Prompt engineering, prompt caching, per-user/department budget controls
+
 ### CI/CD & Automation
 Jenkins (pipelines-as-code, shared libraries, multi-branch), GitHub Actions, automated build/test/deploy workflows, artifact management, release gating
 
@@ -50,9 +53,6 @@ Docker, Kubernetes (K8s), Helm charts, Ansible, Ingress controllers & load balan
 
 ### Cloud & Processing (AWS)
 AWS Lambda, AWS Fargate, Amazon RDS (PostgreSQL), DynamoDB, AWS Bedrock, S3, CloudWatch, IAM policies, VPC networking, cost optimization (FinOps)
-
-### AI/LLM Platform
-LiteLLM (enterprise AI/API Gateway) for unified access to LLMs across Google Vertex AI, AWS Bedrock, Azure AI Foundry. Feature catalog ("ready to use" for rapid implementation of new AI features). RAG pipelines, prompt caching, per-user/department budget controls
 
 ### DevMLOps
 ML pipeline automation, model deployment pipelines, experiment tracking integration, automated testing for ML workloads, Database-as-Code (DbC) for schema migrations
@@ -82,6 +82,13 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 - I operate the **AWS infrastructure**: Lambda for serverless processing, Fargate for containerized workloads, RDS (PostgreSQL) for persistent data, DynamoDB for high-throughput key-value storage
 - I maintain platform **high availability and scalability** across multi-cloud providers with automated failover and load balancing
 - I manage a **Feature Catalog** — a "ready to use" library enabling rapid implementation and deployment of new AI features across teams
+
+#### GenAI & Agentic AI
+- I coordinate the development of **Agentic AI systems** using **LangChain** for LLM orchestration and **LangGraph** for stateful multi-step agent workflows
+- I integrated **LangFlow** as a visual development environment for rapid prototyping and deployment of AI pipelines
+- I designed and operate **RAG (Retrieval-Augmented Generation) pipelines** connecting enterprise knowledge bases to LLMs for context-aware responses
+- I implement **Model Context Protocol (MCP)** for standardized tool integration, enabling AI agents to interact with internal systems and external APIs
+- I lead the transition from basic prompt engineering to autonomous multi-agent architectures capable of complex reasoning and task decomposition
 
 #### Security & Compliance
 - I am directly responsible for **security compliance and legal requirements** for corporate AI usage, in collaboration with IT Cybersecurity and Legal departments to map data policies, manage access controls, and ensure regulatory alignment
