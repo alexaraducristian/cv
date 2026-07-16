@@ -45,7 +45,7 @@ My core focus areas include: **CI/CD automation, DevOps toolchains, DevMLOps pip
 Jenkins (pipelines-as-code, shared libraries, multi-branch), GitHub Actions, automated build/test/deploy workflows, artifact management, release gating
 
 ### Container Orchestration & Infrastructure
-Docker, Kubernetes (K8s), Helm charts, Ingress controllers & load balancers, Terraform (Infrastructure as Code), Configuration as Code (CaC), hybrid cloud automation, blue-green & canary deployments
+Docker, Kubernetes (K8s), Helm charts, Ansible, Ingress controllers & load balancers, Terraform (Infrastructure as Code), Configuration as Code (CaC), hybrid cloud automation, blue-green & canary deployments
 
 ### Cloud & Processing (AWS)
 AWS Lambda, AWS Fargate, Amazon RDS (PostgreSQL), DynamoDB, AWS Bedrock, S3, CloudWatch, IAM policies, VPC networking, cost optimization (FinOps)
@@ -83,11 +83,9 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 - I manage a **Feature Catalog** — a "ready to use" library enabling rapid implementation and deployment of new AI features across teams
 
 #### Security & Compliance
-- I am directly responsible for **security compliance and legal requirements** for corporate AI usage
-- I collaborate with IT Cybersecurity and Legal departments to map data policies, manage access controls, and ensure regulatory alignment
-- I authored technical, architectural, and compliance documentation for **IPCEI (Important Projects of Common European Interest)** EU funding
+- I am directly responsible for **security compliance and legal requirements** for corporate AI usage, in collaboration with IT Cybersecurity and Legal departments to map data policies, manage access controls, and ensure regulatory alignment
 
-#### Automation & CI/CD
+#### Automation & CI/CT/CD
 - I implemented automated deployment pipelines for platform updates with zero-downtime releases
 - I manage infrastructure-as-code for all platform components using Terraform
 - I established monitoring and alerting pipelines (Grafana) ensuring SLA adherence
@@ -98,24 +96,29 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ---
 
-### Lead DevMLOps & DevOps Engineer | Continental / Aumovio | 2020 – 2025
+### Lead DevOps Engineer | Continental / Aumovio | 2020 – present
 
-#### CI/CD & Pipeline Automation
+#### DigitalTwin SDV & Virtualization (2023 – 2025)
+- I served as **Product Owner for the DigitalTwin SDV (Software Defined Vehicle)** project, covering L3 and L4 virtualization for embedded systems
+- I worked with **Vector vTT** and **Synopsys Silver** (L3) and **Synopsys VDK / Virtualizer** (L4) to enable hardware-free software validation
+- I was directly involved in **CI/CD automation** for simulating and testing embedded software in a **scalable number of Kubernetes Pods** — removing the historical bottleneck of limited physical hardware availability for testing
+
+#### CI/CT/CD & Pipeline Automation
 - I designed and implemented **continuous delivery infrastructure at scale** using Jenkins, Docker, and Kubernetes (K8s)
 - I built multi-stage pipelines with automated testing, security scanning, artifact publishing, and deployment gating
-- I managed Helm-based Kubernetes deployments with Ingress controllers for traffic management and load balancing
+- I managed Helm-based Kubernetes deployments with Ingress controllers for traffic management and load balancing.
 
 #### Infrastructure as Code & Cloud
-- I automated hybrid cloud environments using **Terraform** — provisioning, drift detection, and state management
+- I automated hybrid cloud environments using **Terraform** — provisioning, and state management
 - I implemented **Database-as-Code** practices for SQL Server and PostgreSQL — automated schema migrations, version-controlled DDL, rollback procedures
-- I managed Docker container registries, image scanning, and container lifecycle
+- I managed Docker container registries, image scanning, and container lifecycle, using Artifactory.
 
 #### Security & Compliance
-- I integrated security scanning into CI/CD pipelines (SAST, DAST, dependency vulnerability checks)
-- I ensured compliance with automotive ISO standards and internal security policies
-- I coordinated penetration testing and remediation cycles
+- I am involved in security scanning, by preparing CI/CD pipelines for deployment the productive into a staging environment (so that productive data is not compromised by IT cybersecurity penetration tests)
+- I ensured compliance with automotive ISO standards and internal security policies.
+- I coordinated penetration testing, requirement for compliance with IT and Legal departments.
 
-#### Observability
+#### Reporting & Monitoring
 - I built Grafana-based monitoring dashboards for infrastructure and application metrics
 - I implemented SLA monitoring and automated alerting for production environments
 
@@ -124,17 +127,21 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 ### IPCEI AI Project – Main Contributor | Aumovio | 2024 – 2025
 
 - I served as main technical contributor for an AI project funded through **IPCEI (Important Projects of Common European Interest)** European funds
-- I authored the full technical, architectural, and compliance documentation required for EU funding approval
-- I defined system architecture, data flows, and integration strategies aligned with IPCEI regulatory requirements
-- I ensured the project met all security, data governance, and reporting standards mandated by the funding framework
+- I authored the full technical documentation required for EU funding approval, including work package definition and cost calculations in factual and counter-factual scenarios.
+
+### Road4All – Technical Contributor | Aumovio | 2021 – 2022
+
+- I contributed technical details and documentation to the **Road4All** project funded through European funds
+- I provided architectural and implementation specifications supporting the project's funding requirements for Human Machine Interface.
 
 ---
 
-### Release Train Engineer (RTE) | Continental / Aumovio | 2018 – 2025
+### Release Train Engineer (RTE) | Continental / Aumovio | 2017 – present
 
 - I optimized delivery of Agile Release Trains (ART) for automotive software projects
 - I developed metric reporting systems (EazyBI, PowerBI) with corrective and adaptive actions during sprints
 - I ensured PI Planning commitments aligned with technical capacity and delivery milestones
+- I use Jira daily to manage Agile workflows, sprint planning, and change tracking.
 
 ---
 
@@ -149,16 +156,17 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ### Software Engineer – Web & Banking | 2002 – 2010
 
-- I led development of large-scale web and financial/banking applications (.NET C#, ASP.NET)
-- I managed and optimized very large MS SQL Server databases (Big Data scale)
-- I designed robust financial platforms with automated deployment and monitoring
+- I led development of large-scale web and financial/banking applications (.NET C#, ASP.NET).
+- I managed and optimized very large MS SQL Server databases (Big Data scale).
+- I designed robust financial platforms with automated deployment and monitoring.
+- I developed an **intelligent warehouse management system** with real-time inventory tracking, automated stock alerts, and comprehensive reporting dashboards.
 
 ---
 
 ## Personal & Side Projects
 
 ### SEO & SEM
-- I optimize personal websites for search engine visibility using advanced SEO techniques (technical SEO, structured data, Core Web Vitals) and SEM campaigns (Google Ads)
+- I optimize personal websites for search engine visibility using advanced SEO techniques (technical SEO, structured data) and SEM campaigns (Google Ads).
 
 ### Web Development – Astro Framework
 - I build modern, performance-focused static websites using the **Astro** web framework with component-based architecture and optimized content delivery
@@ -184,3 +192,13 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 - Microsoft SQL Server Certified
 - PMP / Project Management Specializations
+- Discipline Project Leader 1 & 2 (Mid Management)
+- SAFe PO/PM Certified
+- Certified Scrum Product Owner (CSPO)
+- PRINCE2 (AXELOS) – Project Management
+- MZT-865 – Project Management
+- Business Analyst
+- PCM (Process Communication Model)
+- Presentation Skills
+- Negotiation Skills
+- Design Thinking  / Creative Thinking / Innovation Applied
