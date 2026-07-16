@@ -24,6 +24,7 @@ blockquote { border-left: 4px solid #3498db; margin: 1em 0; padding: 0.5em 1em; 
 <p style="font-size: 1.2em; font-weight: bold; color: #2c3e50; margin: 0.3em 0;">DevOps & Automation Engineer &nbsp;•&nbsp; CI/CD & Cloud Infrastructure &nbsp;•&nbsp; AI Platform Product Owner</p>
 
 📍 Iași, Romania  
+📞 +40 742 069 533  
 ✉️ alexaraducristian@gmail.com  
 🔗 [linkedin.com/in/alexaradu](https://linkedin.com/in/alexaradu)
 
