@@ -1,8 +1,29 @@
+<head>
+<style>
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.7; color: #2c3e50; max-width: 900px; margin: 0 auto; padding: 40px 20px; }
+h1 { font-size: 2.2em; margin-bottom: 0.1em; color: #1a252f; border-bottom: 3px solid #3498db; padding-bottom: 10px; }
+h2 { color: #2980b9; border-bottom: 1px solid #ecf0f1; padding-bottom: 6px; margin-top: 2em; }
+h3 { color: #34495e; margin-top: 1.5em; }
+h4 { color: #2c3e50; margin-top: 1.2em; font-size: 1em; }
+strong { color: #2c3e50; }
+a { color: #2980b9; text-decoration: none; }
+a:hover { text-decoration: underline; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #dce1e6; padding: 10px 14px; text-align: left; }
+th { background-color: #2980b9; color: white; }
+tr:nth-child(even) { background-color: #f8f9fa; }
+ul { padding-left: 1.4em; }
+li { margin-bottom: 0.4em; }
+hr { border: none; border-top: 1px solid #ecf0f1; margin: 2em 0; }
+blockquote { border-left: 4px solid #3498db; margin: 1em 0; padding: 0.5em 1em; background: #f8f9fa; }
+</style>
+</head>
+
 # Radu Alexa
 
-**DevOps & Automation Engineer | CI/CD & Cloud Infrastructure | AI Platform Product Owner**
+> **DevOps & Automation Engineer | CI/CD & Cloud Infrastructure | AI Platform Product Owner**
 
-Iași, Romania | alexaraducristian@gmail.com | [LinkedIn](https://linkedin.com/in/alexaradu)
+📍 Iași, Romania · ✉️ alexaraducristian@gmail.com · [LinkedIn](https://linkedin.com/in/alexaradu)
 
 ---
 
@@ -19,7 +40,7 @@ My core focus areas include: **CI/CD automation, DevOps toolchains, DevMLOps pip
 ## Technical Skills
 
 ### CI/CD & Automation
-Jenkins (pipelines-as-code, shared libraries, multi-branch), GitLab CI, GitHub Actions, automated build/test/deploy workflows, artifact management, release gating, rollback automation
+Jenkins (pipelines-as-code, shared libraries, multi-branch), GitHub Actions, automated build/test/deploy workflows, artifact management, release gating
 
 ### Container Orchestration & Infrastructure
 Docker, Kubernetes (K8s), Helm charts, Ingress controllers & load balancers, Terraform (Infrastructure as Code), Configuration as Code (CaC), hybrid cloud automation, blue-green & canary deployments
@@ -43,7 +64,7 @@ AWS RDS (PostgreSQL), DynamoDB, MySQL, MS SQL Server, MongoDB, automated schema 
 Grafana dashboards, EazyBI, PowerBI, custom KPI & SLA monitoring, alerting pipelines, platform health metrics
 
 ### Languages & Ecosystem
-Python, .NET C#, Bash/Shell scripting, YAML/HCL (Terraform), Groovy (Jenkins)
+Python, Kotlin, .NET C#, Bash/Shell scripting, YAML/HCL (Terraform), Groovy (Jenkins)
 
 ---
 
@@ -98,7 +119,7 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ---
 
-### IPCEI AI Project – Main Contributor | Aumovio | 2026
+### IPCEI AI Project – Main Contributor | Aumovio | 2024 – 2025
 
 - I served as main technical contributor for an AI project funded through **IPCEI (Important Projects of Common European Interest)** European funds
 - I authored the full technical, architectural, and compliance documentation required for EU funding approval
@@ -107,7 +128,7 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ---
 
-### Release Train Engineer (RTE) | Continental / Aumovio | 2018 – 2026
+### Release Train Engineer (RTE) | Continental / Aumovio | 2018 – 2025
 
 - I optimized delivery of Agile Release Trains (ART) for automotive software projects
 - I developed metric reporting systems (EazyBI, PowerBI) with corrective and adaptive actions during sprints
@@ -115,7 +136,7 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ---
 
-### SW Project Leader & Product Owner | Continental / Aumovio | 2011 – 2020
+### SW Project Leader & Product Owner | Continental / Aumovio | 2010 – 2020
 
 - I led and delivered **Infotainment software projects for PSA (Peugeot Citroën) and FCA (Fiat Chrysler Automobiles)** carlines — many of which are in production vehicles today
 - I managed complex software projects compliant with **Automotive V-cycle and ISO standards**
@@ -129,6 +150,22 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 - I led development of large-scale web and financial/banking applications (.NET C#, ASP.NET)
 - I managed and optimized very large MS SQL Server databases (Big Data scale)
 - I designed robust financial platforms with automated deployment and monitoring
+
+---
+
+## Personal & Side Projects
+
+### SEO & SEM
+- I optimize personal websites for search engine visibility using advanced SEO techniques (technical SEO, structured data, Core Web Vitals) and SEM campaigns (Google Ads)
+
+### Web Development – Astro Framework
+- I build modern, performance-focused static websites using the **Astro** web framework with component-based architecture and optimized content delivery
+
+### Android Applications – Kotlin & Firebase
+- I develop native Android applications using **Kotlin**, backed by **Google Firebase** services — primarily **Firestore** for document-based data and **Realtime Database** for live synchronization
+
+### AI Projects – Google Agent Development Kit
+- I build various small AI-powered projects using **Google Agent Development Kit (ADK)**, experimenting with autonomous agents, tool-use patterns, and multi-agent orchestration
 
 ---
 
