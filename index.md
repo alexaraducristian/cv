@@ -21,7 +21,7 @@ blockquote { border-left: 4px solid #3498db; margin: 1em 0; padding: 0.5em 1em; 
 
 # Radu Alexa
 
-> **DevOps & Automation Engineer | CI/CD & Cloud Infrastructure | AI Platform Product Owner**
+<p style="font-size: 1.2em; font-weight: bold; color: #2c3e50; margin: 0.3em 0;">DevOps & Automation Engineer &nbsp;•&nbsp; CI/CD & Cloud Infrastructure &nbsp;•&nbsp; AI Platform Product Owner</p>
 
 📍 Iași, Romania  
 ✉️ alexaraducristian@gmail.com  
