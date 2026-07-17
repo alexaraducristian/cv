@@ -132,7 +132,7 @@ I own an enterprise AI platform serving the entire organization — **25,000+ re
 
 ---
 
-### IPCEI AI Project – Main Contributor | Aumovio | 2024 – 2025
+### IPCEI AI Project – Main Contributor | Aumovio | 2026
 
 - I served as main technical contributor for an AI project funded through **IPCEI (Important Projects of Common European Interest)** European funds
 - I authored the full technical documentation required for EU funding approval, including work package definition and cost calculations in factual and counter-factual scenarios.
